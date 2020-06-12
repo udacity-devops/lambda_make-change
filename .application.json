@@ -1,0 +1,12 @@
+{
+    "ApplicationName": "udacityMakeChange",
+    "DeploymentMethod": "cloudformation",
+    "Functions": {
+        "udacityMakeChange": {
+            "PhysicalId": {
+                "us-west-2": "cloud9-udacityMakeChange-udacityMakeChange-1MFZR0VTKNKX3"
+            }
+        }
+    },
+    "StackName": "cloud9-udacityMakeChange"
+}
